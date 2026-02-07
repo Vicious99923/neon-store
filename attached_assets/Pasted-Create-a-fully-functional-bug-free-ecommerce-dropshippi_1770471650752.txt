@@ -1,0 +1,79 @@
+Create a fully functional, bug-free ecommerce dropshipping website from scratch using React for frontend, Node.js + Express for backend, and Tailwind CSS for styling.
+
+Project structure requirements:
+
+frontend/components: Navbar, Footer, ProductCard, CartItem, WishlistItem, ReviewItem, Popup
+
+frontend/pages: Home.jsx, Products.jsx, ProductDetails.jsx, Cart.jsx, Checkout.jsx, About.jsx, Contact.jsx, Account.jsx, AdminPanel.jsx, NotFound.jsx
+
+backend/routes: apiRoutes.js (all API endpoints for products, users, orders)
+
+backend/controllers: productController.js, userController.js, orderController.js
+
+backend/models: Product.js, User.js, Order.js
+
+Functional requirements:
+
+Full Cart system (Add, Remove, Update products)
+
+Checkout page with placeholders for Egyptian payment gateways (Vodafone Cash, Etisalat Cash, Fawry, Paymob) and Cash on Delivery option
+
+Admin Panel accessible ONLY by the admin (you) for managing products, viewing orders, and tracking stock
+
+Stock/availability tracking placeholders
+
+Wishlist and Reviews system for customers
+
+Popups for discounts and promotions
+
+Breadcrumb navigation
+
+Search bar and advanced filters (price, category, color, size, tags)
+
+Fully responsive design for desktop and mobile
+
+404 page and proper error handling
+
+Design & UI requirements:
+
+Eye-catching gradient colors and soft neon accents
+
+Modern, clean, and Gen-Z friendly design
+
+Smooth animations, hover effects, and readable typography
+
+Clear Call-To-Action buttons on all pages
+
+Tech & Deployment requirements:
+
+Use JSON structure for products (you will add real products manually later)
+
+Clean, structured, production-ready code
+
+Admin Panel editable only by you
+
+Ready to deploy to GitHub
+
+Optimized images and assets for fast load times
+
+Basic SEO (meta titles, descriptions, alt text)
+
+Placeholders for Google Analytics / Facebook Pixel integration
+
+HTTPS-ready / SSL compatible
+
+Forms validation
+
+Important notes:
+
+Do NOT include real products; placeholders only
+
+Do NOT include real payment API keys; placeholders only
+
+Ensure no errors on any page, all components fully functional
+
+Admin Panel must be fully operational, editable only by the admin (you), bug-free
+
+Make everything editable, clean, and beginner-friendly
+
+Fully complete website with all pages, features, and Admin Panel, no partial generation or missing sections
